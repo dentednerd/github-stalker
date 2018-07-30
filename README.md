@@ -10,7 +10,8 @@ Look up a Github account's repo count, follower count, and five biggest repos.
 
 ```bash
 // Clone this repo:
-git clone
+git clone git@github.com:dentednerd/typescript-tutorial.git
+cd typescript-tutorial
 
 // Install dependencies:
 npm install
