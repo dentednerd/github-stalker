@@ -1,13 +1,14 @@
 {
-  "name": "typescript-project",
+  "name": "github-stalker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Look up a Github account's repo count, follower count, and five biggest repos.",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node out/index.js",
+    "start": "node out/index.js",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jo Imlay (via Java Brains)",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.10",
