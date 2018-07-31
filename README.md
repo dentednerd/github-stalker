@@ -10,7 +10,7 @@ Look up a Github account's repo count, follower count, and five biggest repos.
 
 ```bash
 // Clone this repo:
-git clone git@github.com:dentednerd/typescript-tutorial.git
+git clone git@github.com:dentednerd/github-stalker.git
 cd github-stalker
 
 // Install dependencies:
