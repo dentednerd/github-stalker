@@ -1,7 +1,7 @@
 {
   "name": "github-stalker",
   "version": "1.0.0",
-  "description": "Look up a Github account's repo count, follower count, and five biggest repos.",
+  "description": "A command line utility to look up a Github account's repo count, follower account and five biggest repos. Created from the Java Brains tutorial TypeScript Basics.",
   "main": "index.js",
   "scripts": {
     "start": "node out/index.js",
